@@ -1,0 +1,10 @@
+UnlitGeneric
+{
+	$basetexture "oof_lv_assets/debil_check"
+
+	$alphatest 1
+
+	$basetexturetransform "center 0.5 0.5 scale 0.9 0.6 rotate 0 translate 0 0"
+
+	%notooltexture 1
+}
