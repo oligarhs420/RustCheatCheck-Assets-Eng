@@ -6,7 +6,8 @@ Credits:
 @NotEagle
 
 ===============================================================
-Plugin - https://hlmod.ru/resources/rust-check-cheats.1437/
+Plugin - https://hlmod.ru/resources/rust-check-cheats.1437/ or use this new fork -
+https://hlmod.ru/threads/check-cheats-fork
 ===============================================================
 
 1. Edit - overlay_downloads2.ini
