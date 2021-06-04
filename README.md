@@ -5,6 +5,8 @@ Credits:
 @sexgamer
 @NotEagle
 
+example image - https://i.imgur.com/XKgZKnd.png
+
 ===============================================================
 Plugin - https://hlmod.ru/resources/rust-check-cheats.1437/ or use this new fork -
 https://hlmod.ru/threads/check-cheats-fork
